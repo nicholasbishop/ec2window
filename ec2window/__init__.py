@@ -1,3 +1,5 @@
+"""Provides the run_ec2_instance context manager."""
+
 import contextlib
 import logging
 
